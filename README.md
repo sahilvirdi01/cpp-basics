@@ -1,0 +1,67 @@
+#  C++ Programming
+
+This repository contains list of **simple, well-documented codes** starting from the very basics — perfect for self-learning or classroom reference.
+
+---
+
+## About the Repository
+- Covers **20+ basic C++ programs** in a **step-by-step** manner.
+- Each program includes:
+  - **Description** of the problem.
+  - **Formula** (if applicable).
+  - **Sample Output**.
+  - **source code**.
+
+---
+
+## Getting Started
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/sahilvirdi01/cpp-basics.git
+
+#go to directory
+cd cpp-basics
+```
+### 2️⃣ Compile & Run Program
+
+```bash
+#compile the program you want to use
+g++ program_name.cpp -o output
+
+#run the code
+./output
+```
+---
+
+## List of Programs
+- [Program to add two numbers](codes/add-two-numbers.cpp)
+- [Program to find area of Circle](codes/area-of-circle.cpp)
+- [Program to check if program is even or odd](codes/even-or-odd.cpp)
+- [Program to find percentage of five numbers](codes/percentage-of-five-num.cpp)
+- [Program to find sum of individual digits of five numbers](codes/sum-of-digits-of-five-digits-num.cpp)
+- [Program to swap two numbers using third variable](cpdes/swap-two-numbers-using-variable.cpp)
+- [Program to swap two numbers without using third variable](codes/swap-two-numbers-without-third-variable.cpp)
+
+---
+
+## Contribution
+- If you find any bug or have suggestions, feel free to [create an issue](../../issues) in this repository.
+- This project is **open-source** and available for everyone to use, modify, and share.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
