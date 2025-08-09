@@ -52,7 +52,6 @@ g++ program_name.cpp -o output
 - [Program to find sum of individual digits of five numbers](codes/sum-of-digits-of-five-digits-num.cpp)
 - [Program to swap two numbers using third variable](cpdes/swap-two-numbers-using-variable.cpp)
 - [Program to swap two numbers without using third variable](codes/swap-two-numbers-without-third-variable.cpp)
-- []()
 
 ---
 
