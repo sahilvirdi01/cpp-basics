@@ -5,7 +5,7 @@ This repository contains list of **simple, well-documented codes** starting from
 ---
 
 ## About the Repository
-- Covers **20+ basic C++ programs** in a **step-by-step** manner.
+- Covers **basic C++ programs** in a **step-by-step** manner.
 - Each program includes:
   - **Description** of the problem.
   - **Formula** (if applicable).
@@ -13,6 +13,7 @@ This repository contains list of **simple, well-documented codes** starting from
   - **source code**.
 
 ---
+<br>
 
 ## Getting Started
 
@@ -33,6 +34,7 @@ g++ program_name.cpp -o output
 ./output
 ```
 ---
+<br>
 
 ## List of Programs
 - [Program to add two numbers](codes/add-two-numbers.cpp)
@@ -54,13 +56,13 @@ g++ program_name.cpp -o output
 - [Program to swap two numbers without using third variable](codes/swap-two-numbers-without-third-variable.cpp)
 
 ---
+<br>
 
 ## Contribution
 - If you find any bug or have suggestions, feel free to [create an issue](../../issues) in this repository.
 - This project is **open-source** and available for everyone to use, modify, and share.
 
-
-
+<br>
 
 
 
