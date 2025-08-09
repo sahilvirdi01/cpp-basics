@@ -2,7 +2,7 @@
  Title       : Reverse a Number (Without Loop)
  Description : Reverses a 3-digit number without using a loop.
  Formula     : reverse = (num % 10)*100 + ((num / 10) % 10)*10 + (num / 100)
- Note        : Works only for 3-digit numbers in this version.
+ 
  Sample Output:
  Enter a 3-digit number: 123
  Reversed Number = 321
