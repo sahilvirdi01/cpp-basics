@@ -18,10 +18,10 @@ This repository contains list of **simple, well-documented codes** starting from
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/sahilvirdi01/cpp-basics.git
+git clone https://github.com/sahilvirdi01/cpp-programming.git
 
 #go to directory
-cd cpp-basics
+cd cpp-programming/
 ```
 ### 2️⃣ Compile & Run Program
 
