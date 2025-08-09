@@ -1,9 +1,11 @@
-// Program : Even or odd number
-// Description : This program checks whether given number is even or odd.
+/*
+Title       : Even or odd number
+Description : This program checks whether given number is even or odd.
 
-// Sample Output 
-// Enter a number : 79
-// Number is odd
+Sample Output 
+Enter a number : 79
+Number is odd
+*/
 
 #include<iostream>
 using namespace std;

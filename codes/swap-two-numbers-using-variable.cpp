@@ -1,11 +1,13 @@
-// Program : Swap two numbers
-// Description : This program swaps two numbers using a third variable
+/*
+Title       : Swap two numbers
+Description : This program swaps two numbers using a third variable
 
-// Sample Output 
-// Enter value of A : 5
-// Enter value of B : 3
-// A is :
-// B is :
+Sample Output 
+Enter value of A : 5
+Enter value of B : 3
+A is : 3
+B is : 5
+*/
 
 #include<iostream>
 using namespace std;

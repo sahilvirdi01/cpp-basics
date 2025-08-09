@@ -1,9 +1,11 @@
-// Program : Sum of digits of five digits numbers
-// Description : This program calculates the sum of individual digits of given five digits number.
+/*
+Title       : Sum of digits of five digits numbers
+Description : This program calculates the sum of individual digits of given five digits number.
 
-// Sample Output 
-// Enter a five digits number : 67584
-// Sum = 30
+Sample Output 
+Enter a five digits number : 67584
+Sum = 30
+*/
 
 #include<iostream>
 using namespace std;

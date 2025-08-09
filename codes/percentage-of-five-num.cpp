@@ -1,11 +1,12 @@
-// Program : Percentage of five number
-// Description : This program calculates the percentage of given five numbers.
+/*
+Title       : Percentage of five number
+Description : This program calculates the percentage of given five numbers.
+Formula     : percentage = (sum of marks / total max marks) x 100
 
-// Formula
-// percentage = (sum of marks / total max marks) x 100
-// Sample Output 
-// Enter five numbers : 80 79 88 77 68
-// Percentage of given numbers = 78.4%
+Sample Output 
+Enter five numbers : 80 79 88 77 68
+Percentage of given numbers = 78.4%
+*/
 
 #include<iostream>
 using namespace std;
