@@ -35,6 +35,8 @@ This repository contains a list of **simple, well-documented codes** starting fr
 - [Program to find sum of individual digits of five numbers](codes/sum-of-digits-of-five-digits-num.cpp)
 - [Program to swap two numbers using third variable](cpdes/swap-two-numbers-using-variable.cpp)
 - [Program to swap two numbers without using third variable](codes/swap-two-numbers-without-third-variable.cpp)
+- [Program to find fibonacci number of nth term](codes/fibonacci.cpp)
+- [Program to find factorial of a number via recursion](codes/factorial.cpp)
 
 ---
 <br>
