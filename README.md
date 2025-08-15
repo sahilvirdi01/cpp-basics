@@ -37,6 +37,7 @@ This repository contains a list of **simple, well-documented codes** starting fr
 - [Program to swap two numbers without using third variable](codes/swap-two-numbers-without-third-variable.cpp)
 - [Program to find fibonacci number of nth term](codes/fibonacci.cpp)
 - [Program to find factorial of a number via recursion](codes/factorial.cpp)
+- [Program to check whether character is uppercase or lowercase](codes/uppercase-or-lowercase.cpp)
 
 ---
 <br>
