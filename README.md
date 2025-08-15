@@ -38,7 +38,10 @@ This repository contains a list of **simple, well-documented codes** starting fr
 - [Program to find fibonacci number of nth term](codes/fibonacci.cpp)
 - [Program to find factorial of a number via recursion](codes/factorial.cpp)
 - [Program to check whether character is uppercase or lowercase](codes/uppercase-or-lowercase.cpp)
-
+### Nested Loops Patterns ↓
+- [Program to create upper left triangle star pattern](codes/loop-patterns/upper-left-triangle.cpp)
+- [Program to create lower left triangle star pattern](codes/loop-patterns/lower-left-triangle.cpp)
+- [Program to create square star pattern](codes/loop-patterns/square.cpp)
 ---
 <br>
 
