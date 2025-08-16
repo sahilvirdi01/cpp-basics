@@ -42,6 +42,11 @@ This repository contains a list of **simple, well-documented codes** starting fr
 - [Program to create upper left triangle star pattern](codes/loop-patterns/upper-left-triangle.cpp)
 - [Program to create lower left triangle star pattern](codes/loop-patterns/lower-left-triangle.cpp)
 - [Program to create square star pattern](codes/loop-patterns/square.cpp)
+- [Program to create following triangle pattern](codes/loop-patterns/triangle-pattern.cpp)
+- <img src="media/triangle2-patteren.png">
+- [Program to create following triangle pattern](codes/loop-patterns/triangle-pattern2.cpp)
+- <img src="media/triangle3-patteren.png">
+- 
 ---
 <br>
 
