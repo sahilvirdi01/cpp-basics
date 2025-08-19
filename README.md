@@ -40,19 +40,21 @@ This repository contains a list of **simple, well-documented codes** starting fr
 - [Program to check whether character is uppercase or lowercase](codes/uppercase-or-lowercase.cpp)
 ### Nested Loops Patterns ↓
 - [Program to create upper left triangle star pattern](codes/loop-patterns/upper-left-triangle.cpp)
+- <img style="width:100px;height:100px" src="media/lower-left-pattern.png">
 - [Program to create lower left triangle star pattern](codes/loop-patterns/lower-left-triangle.cpp)
+- <img style="width:100px;height:100px" src="media/upper-left-pattern.png">
 - [Program to create inverted triangle pattern ](codes/loop-patterns/inverted-triangle-patteren.cpp)
-- <img src="media/inverted-triangle.png">
+- <img style="width:100px;height:100px" src="media/inverted-triangle.png">
 - [Program to create square star pattern](codes/loop-patterns/square.cpp)
+- <img style="width:100px;height:100px" src="media/square.png">
 - [Program to create following triangle pattern](codes/loop-patterns/triangle-pattern.cpp)
-- <img src="media/triangle2-patteren.png">
+- <img style="width:100px;height:100px" src="media/triangle2-patteren.png">
 - [Program to create following triangle pattern](codes/loop-patterns/triangle-pattern2.cpp)
-- <img src="media/triangle3-patteren.png">
+- <img style="width:100px;height:100px" src="media/triangle3-patteren.png">
 - [Program to create floyd's triangle](codes/loop-patterns/floyd-triangle.cpp)
-- <img src="media/floyds-triangle.png">
+- <img style="width:100px;height:100px" src="media/floyds-triangle.png">
 - [Program to create pyramid ](codes/loop-patterns/pyramid.cpp)
-- <img src="media/pyramid.png">
-- 
+- <img style="width:100px;height:100px" src="media/pyramid.png">
 ---
 <br>
 
