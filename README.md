@@ -46,6 +46,7 @@ This repository contains a list of **simple, well-documented codes** starting fr
 - <img src="media/triangle2-patteren.png">
 - [Program to create following triangle pattern](codes/loop-patterns/triangle-pattern2.cpp)
 - <img src="media/triangle3-patteren.png">
+- [Program to create floyd's triangle](codes/loop-patterns/floyd-triangle.cpp)
 - 
 ---
 <br>
