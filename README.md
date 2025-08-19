@@ -41,6 +41,8 @@ This repository contains a list of **simple, well-documented codes** starting fr
 ### Nested Loops Patterns ↓
 - [Program to create upper left triangle star pattern](codes/loop-patterns/upper-left-triangle.cpp)
 - [Program to create lower left triangle star pattern](codes/loop-patterns/lower-left-triangle.cpp)
+- [Program to create inverted triangle pattern ](codes/loop-patterns/inverted-triangle-patteren.cpp)
+- <img src="media/inverted-triangle.png">
 - [Program to create square star pattern](codes/loop-patterns/square.cpp)
 - [Program to create following triangle pattern](codes/loop-patterns/triangle-pattern.cpp)
 - <img src="media/triangle2-patteren.png">
@@ -48,6 +50,9 @@ This repository contains a list of **simple, well-documented codes** starting fr
 - <img src="media/triangle3-patteren.png">
 - [Program to create floyd's triangle](codes/loop-patterns/floyd-triangle.cpp)
 - <img src="media/floyds-triangle.png">
+- [Program to create pyramid ](codes/loop-patterns/pyramid.cpp)
+- <img src="media/pyramid.png">
+- 
 ---
 <br>
 
